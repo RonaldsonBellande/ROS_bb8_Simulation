@@ -1,0 +1,5 @@
+linux_course_files/move_bb8_pkg
+/home/ronaldsonbellande/Desktop/ROS_Robotic_Movements/ROS_bb8_Simulation/catkin_ws/devel/.private/move_bb8_pkg/cmake.lock /home/ronaldsonbellande/Desktop/ROS_Robotic_Movements/ROS_bb8_Simulation/catkin_ws/devel/./cmake.lock
+/home/ronaldsonbellande/Desktop/ROS_Robotic_Movements/ROS_bb8_Simulation/catkin_ws/devel/.private/move_bb8_pkg/lib/pkgconfig/move_bb8_pkg.pc /home/ronaldsonbellande/Desktop/ROS_Robotic_Movements/ROS_bb8_Simulation/catkin_ws/devel/lib/pkgconfig/move_bb8_pkg.pc
+/home/ronaldsonbellande/Desktop/ROS_Robotic_Movements/ROS_bb8_Simulation/catkin_ws/devel/.private/move_bb8_pkg/share/move_bb8_pkg/cmake/move_bb8_pkgConfig-version.cmake /home/ronaldsonbellande/Desktop/ROS_Robotic_Movements/ROS_bb8_Simulation/catkin_ws/devel/share/move_bb8_pkg/cmake/move_bb8_pkgConfig-version.cmake
+/home/ronaldsonbellande/Desktop/ROS_Robotic_Movements/ROS_bb8_Simulation/catkin_ws/devel/.private/move_bb8_pkg/share/move_bb8_pkg/cmake/move_bb8_pkgConfig.cmake /home/ronaldsonbellande/Desktop/ROS_Robotic_Movements/ROS_bb8_Simulation/catkin_ws/devel/share/move_bb8_pkg/cmake/move_bb8_pkgConfig.cmake

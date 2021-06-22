@@ -1,0 +1,1 @@
+/home/ronaldsonbellande/Desktop/ROS_Robotic_Movements/ROS_bb8_Simulation/catkin_ws/devel/.private/move_bb8_pkg/share/move_bb8_pkg/cmake/move_bb8_pkgConfig-version.cmake

@@ -1,0 +1,8 @@
+prefix=/home/ronaldsonbellande/Desktop/ROS_Robotic_Movements/ROS_bb8_Simulation/catkin_ws/devel/.private/move_bb8_pkg
+
+Name: move_bb8_pkg
+Description: Description of move_bb8_pkg
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
