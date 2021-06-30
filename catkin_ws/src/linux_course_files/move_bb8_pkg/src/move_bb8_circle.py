@@ -27,6 +27,8 @@ class MoveBB8():
             else:
                 self.rate.sleep()
 
+
+    
     def shutdownhook(self):
         # works better than the rospy.is_shutdown()
         self.stop_bb8()
